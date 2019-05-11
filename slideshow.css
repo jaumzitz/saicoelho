@@ -34,17 +34,21 @@
 	 border-radius: 100%;
  }
 
+.slider label:hover {
+	background-color: #a9abad;
+}
+
 
  .slider li:nth-child(1) label {
-     left: 10px;
+     left: -30px;
  }
 
  .slider li:nth-child(2) label {
-     left: 40px;
+     left: -10px;
  }
 
  .slider li:nth-child(3) label {
-     left: 70px;
+     left: 55px;
  } 
  
  .slider img {
