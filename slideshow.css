@@ -4,12 +4,12 @@
      height: 50%;
      width: 100%;
      margin: auto;
-     position: relative;
+     
  }
 
  .slider li {
      list-style: none;
-     position: absolute;
+     position: absolut;
 }
 
 .slider img {
